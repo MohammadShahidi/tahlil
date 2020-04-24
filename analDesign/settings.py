@@ -25,7 +25,9 @@ SECRET_KEY = ')t@4(&ft2fg^-nl!(2p5+)7hy*5#(d3t@u--quo=9utjdp9t)8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'sharifdjangotestshahidi.ir'
+]
 
 
 # Application definition
