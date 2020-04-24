@@ -26,7 +26,10 @@ SECRET_KEY = ')t@4(&ft2fg^-nl!(2p5+)7hy*5#(d3t@u--quo=9utjdp9t)8'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'sharifdjangotestshahidi.ir'
+    'sharifdjangotestshahidi.ir',
+    'www.sharifdjangotestshahidi.ir',
+    'localhost',
+    '127.0.0.1',
 ]
 
 
